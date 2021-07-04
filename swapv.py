@@ -1,5 +1,5 @@
-a=5
-b=7
+a=input("enter first number >>")
+b=input("enter second number>>")
 print("before swapping: ")
 print("a =",a,"b = ",b)
 b,a=a,b
